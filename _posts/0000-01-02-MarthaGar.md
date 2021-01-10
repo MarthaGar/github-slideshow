@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am learning new things and I love it! :stuck_out_tongue_winking_eye:
 Use the left arrow to go back!
